@@ -1,6 +1,6 @@
 ## Profile ->
 
-## 🌐 Yt:
+## 🌐 Youtube channel:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC7Y_HZxDC36lep7S_E2q-Iw) 
 
 # 💻 Developer in:
